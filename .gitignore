@@ -1,0 +1,5 @@
+backup/
+logs/
+*.tar.gz
+*.sha256
+
